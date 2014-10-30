@@ -1,0 +1,1 @@
+A repo for the Ruby Karaoke static page
